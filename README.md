@@ -61,12 +61,12 @@ To install Kubernetes(minikube) were using AWS EC2
 
 
 ## The Project is divided into 6 parts
-``` 
-  - Server Setup 
-  - Dockerfile - Configure Webhook - Trigger Jenkins Job - git
-  - Transfer & Execute files on remote server using SshAgent
-  - Build docker Images using Dockerfile - Tag docker images
-  - Complete Declarative CI/CD Pipelines in Jenkins Project - Push Images to DockerHub
-  - Complete Real-time Deployment on Kubernetes cluster using jenkins CI/CD
-  ```
+
+- [Server Setup]() 
+- Dockerfile - Configure Webhook - Trigger Jenkins Job - git 
+- Transfer & Execute files on remote server using SshAgent
+- Build docker Images using Dockerfile - Tag docker images
+- Complete Declarative CI/CD Pipelines in Jenkins Project - Push Images to DockerHub
+- Complete Real-time Deployment on Kubernetes cluster using jenkins CI/CD
+  
 I will update my learnings of each part, This is going to be awesome. 
