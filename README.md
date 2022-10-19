@@ -36,8 +36,7 @@ It runs the kubectl command on our Kubernetes cluster web app and it tries to ge
 latest image.It will pull from the docker hub and it will start building the image,   <br>
 it will build a container and that container should be available to us using an IP and a port
 
-We're going to start by writing service.yaml and handit over to the Kubernetes cluster
-
+We're going to start by writing service.yaml and handit over to the Kubernetes cluster <br>
 So this is the whole scenario in simple terms was going to achieve a Kubernetes deployment
 
 I will tell you what are the prerequisites along with using Jenkins CI /CD by using various tools  <br>
@@ -47,9 +46,9 @@ Ansible Server builds a Docker image based on the Docker file, we push it to Doc
 So we need to log in to Docker Hub here so we can easily push the latest image so what we're trying  <br>
 to accomplish here is we have the latest image and we also maintain a version based on the build
 
-We build number 1 means v1, it contains a fresh image
+It builds v1, it contains a fresh image
 
-If the second time it builds another image, (build a v2) so that the second contains the latest  <br>
+If the second time it builds another image v2, so that the second contains the latest  <br>
 image, we are performing a version, also, we have to separate the latest image
 
 So what are the necessary pre-requisites to follow:
