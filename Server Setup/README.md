@@ -9,7 +9,7 @@ setup 2 instances for jenkins(Jenkins-server) and ansible(Ansible-server) (use t
 
 setup 1 instance for (Webapp-server)k8s cluster (use t2.medium) 8gb for the instace
 
-for this project purpose, set security groups to allow all incoming traffic 
+for this project purpose, set security groups to allow all incoming traffic
 <br>
 
 ![Provision-EC2](https://user-images.githubusercontent.com/58173938/196746222-fc3342f2-9e7e-43a3-978b-9ace8aebe186.png)
