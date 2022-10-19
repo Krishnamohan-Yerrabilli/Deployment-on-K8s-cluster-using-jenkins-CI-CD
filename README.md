@@ -17,7 +17,7 @@ and regular Kubernetes cluster.
 We will also learn about Kubernetes to know about this deployment and services and we  <br>
 will write Ansible playbooks with it, we will also write Dockerfile.
 
-### Agenda 
+## Agenda 
 
 When the developer writes a Docker file, he pushes it to the GitHub repository  <br>
 so whenever there is a new commit to the GitHub repo When the new code arrives it  <br>
@@ -61,7 +61,7 @@ and one for the Kubernetes cluster for the web app.
 To install Kubernetes(minikube) were using AWS EC2
 
 
-### The Project is divided into 6 parts
+## The Project is divided into 6 parts
 ``` 
   - Server Setup 
   - Dockerfile - Configure Webhook - Trigger Jenkins Job - git
