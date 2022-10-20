@@ -59,10 +59,10 @@ so whenever there is a new commit to the GitHub repo When the new code arrives i
 
  - To install Kubernetes(minikube) were using AWS EC2
 
-## The Project is divided into 6 parts
+## Project is divided into 6 parts
 
-✅ [Server Setup](https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD/tree/main/Server%20Setup) 
-✅ [Dockerfile - Configure Webhook - Trigger Jenkins Job - git](https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD/tree/main/Dockerfile%20-%20Configure%20Webhook%20-%20Trigger%20Jenkins%20Job%20-%20git) 
+- [Server Setup](https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD/tree/main/Server%20Setup) 
+- [Dockerfile - Configure Webhook - Trigger Jenkins Job - git](https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD/tree/main/Dockerfile%20-%20Configure%20Webhook%20-%20Trigger%20Jenkins%20Job%20-%20git) 
 - Transfer & Execute files on remote server using SshAgent
 - Build docker Images using Dockerfile - Tag docker images
 - Complete Declarative CI/CD Pipelines in Jenkins Project - Push Images to DockerHub
