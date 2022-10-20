@@ -6,7 +6,7 @@
 
 And push the Dockerfile to a separate [Repository](https://github.com/Krishnamohan-Yerrabilli/jenkins-pipeline)
 
-### Why separate repo?
+### Why we need separate repo?
 
 #### Because it makes it easy to Jenkins to fetch the file(more on this later)
 
