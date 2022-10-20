@@ -55,5 +55,15 @@ To provide the `api token`(one type of a secret), go to jenkins
 
 ![12-refreshthe-sping](https://user-images.githubusercontent.com/58173938/196873274-9bf34466-0035-4ba8-9f26-36ffb6aa1f91.png)
 
+#### Now lets make a change in Dockerfile and push it the separate repo we created, 
+*this is the link we paste in jenkins script*
+
+![12-port22ssh-port-added](https://user-images.githubusercontent.com/58173938/196873168-0f988ee8-5823-4745-b43a-64db01fca136.png)
+
+#### wohoo we successfully trigered the jenkins, by commiting a new change in the Dockerfile via Github
+
+![13-succesfully-trigered](https://user-images.githubusercontent.com/58173938/196873800-b1b1f3b4-832a-4dcc-a3db-6159da095835.png)
+
+happy learning!!
 
 
