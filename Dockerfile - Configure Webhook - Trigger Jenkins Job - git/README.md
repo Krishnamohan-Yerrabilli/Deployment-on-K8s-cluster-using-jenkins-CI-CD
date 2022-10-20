@@ -37,6 +37,9 @@ And push the Dockerfile to a separate [Repository](https://github.com/Krishnamoh
 
 #### what we done until now is manual process, lets automate this stuff. select configure git scm
 
+![8-selectconfigure-gitscm](https://user-images.githubusercontent.com/58173938/196872231-04bc8ed2-ffee-42b7-ae05-dd9af2641789.png)
+
+#### Configure web hook
 
 
 
