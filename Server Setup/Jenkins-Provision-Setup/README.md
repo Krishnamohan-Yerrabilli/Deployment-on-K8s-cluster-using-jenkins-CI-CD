@@ -28,4 +28,6 @@ After successfull intallation, for changes to apply reboot jenkins
 
 ![7-installplugin-reboot](https://user-images.githubusercontent.com/58173938/196836045-19c0276b-f44f-4e9a-b14c-9ed773bb1bb1.png)
 
-Now login through Ansible Server
+Next step:
+
+Now ssh [Ansible Server](https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD/tree/main/Server%20Setup/Ansible-Provision-Setup)
