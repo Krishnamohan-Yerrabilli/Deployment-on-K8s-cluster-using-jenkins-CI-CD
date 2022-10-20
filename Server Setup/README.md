@@ -21,27 +21,28 @@ If you're facing any difficulty to ssh, checkout my trobuleshooting [guide](http
 
 ![Putty](https://user-images.githubusercontent.com/58173938/196749934-9f174ba0-8eb0-4454-8689-a64d0b3c3e75.png)
 
-To install putty simply run this [file]() in you're terminal 
+To install putty simply run this [script](https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD/blob/main/Server%20Setup/PuTTYSSH-Client/putty-script.sh) in you're terminal 
 
-After sucessfull installation type `putty` in you're terminal
+After sucessfull installation type `putty` in the respected fiels, enter putty in search bar <br>
+or enter putty in you're terminal
 <br />
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/58173938/196751664-7afc0154-1fd9-42ad-b4a2-f926bf205b71.png" alt="Logo" >
 </div>
 
-Choose between raw, Telnet, rlogin, SSH, or serial connection. Enter a port number, <br>
-a server hostname or IP address, and start a new session, for this context choose SSH
 Before you copy your instance Public Ip address, make sure you download `.ppk` key-pair 
  
-selected Instance public Ip address 
+select the respective Instance public Ip address 
  
 ![Publicip](https://user-images.githubusercontent.com/58173938/196752930-0b1bf2c5-bb59-4e3a-b63d-81a7793ea98d.png)
- 
-Paste in to the putty `hostname or Ipaddress` fieldSelect your `.ppk` and choose open
+
+Choose between raw, Telnet, rlogin, SSH, or serial connection. Enter a port number, <br>
+a server hostname or IP address, and start a new session, for this context choose SSH
  
 ![Ip](https://user-images.githubusercontent.com/58173938/196753609-f0f8223c-29ec-48f0-a105-b8e1cf2f152c.png)
  
+Paste in to the putty `hostname or Ipaddress` field, Select your `.ppk` and choose open
 
 ![selectppk](https://user-images.githubusercontent.com/58173938/196754035-352d525a-a256-47a9-b744-2c6b93bcb570.png)
 
