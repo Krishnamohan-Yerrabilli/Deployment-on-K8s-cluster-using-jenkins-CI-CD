@@ -21,7 +21,8 @@ will write Ansible playbooks with it, we will also write Dockerfile.
 
 When the developer writes a Docker file, he pushes it to the GitHub repository  <br>
 so whenever there is a new commit to the GitHub repo When the new code arrives it  <br>
- - notifies Jenkins via a webhook, and Jenkins starts a build
+ 
+ - Notifies Jenkins via a webhook, and Jenkins starts a build
 
  - Jenkins pulls all the code from the GitHub repository Once it's completed, it will <br>
   ssh to the ansible server so when a developer pushes a docker file it accesses the  <br>
