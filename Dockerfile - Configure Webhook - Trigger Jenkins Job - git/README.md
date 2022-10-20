@@ -41,5 +41,11 @@ And push the Dockerfile to a separate [Repository](https://github.com/Krishnamoh
 
 #### Configure web hook
 
+![9-configure-webhook](https://user-images.githubusercontent.com/58173938/196872293-1ed5e5cd-fab4-4e8b-877b-63082590f34d.png)
+
+To provide the `api token`(one type of a secret), go to jenkins
+
+
+
 
 
