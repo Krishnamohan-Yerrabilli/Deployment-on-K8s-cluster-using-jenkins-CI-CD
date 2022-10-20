@@ -24,7 +24,7 @@ Now install required SSH plugin
 
 ![6-install-plugin-sshagent](https://user-images.githubusercontent.com/58173938/196835780-bc1f795d-4d15-4e85-ac98-7ae36bb095bb.png)
 
-After successfull intallation, for changes to apply reboot jenkins
+After successfull installation, for changes to apply reboot jenkins
 
 ![7-installplugin-reboot](https://user-images.githubusercontent.com/58173938/196836045-19c0276b-f44f-4e9a-b14c-9ed773bb1bb1.png)
 
