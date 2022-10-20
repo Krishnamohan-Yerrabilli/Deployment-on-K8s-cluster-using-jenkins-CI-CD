@@ -27,6 +27,12 @@ And push the Dockerfile to a separate [Repository](https://github.com/Krishnamoh
 
 ![5-enter-your-repo-name](https://user-images.githubusercontent.com/58173938/196871684-eeb814d4-82fe-438d-9e65-6699b43c737f.png)
 
+#### we're writing script using groovy 
+
+![6-groovy-script-gitcheckout](https://user-images.githubusercontent.com/58173938/196871851-67b03569-71c0-436f-a487-d37b922c1c4e.png)
+
+#### Build is succesfully 
+
 
 
 
