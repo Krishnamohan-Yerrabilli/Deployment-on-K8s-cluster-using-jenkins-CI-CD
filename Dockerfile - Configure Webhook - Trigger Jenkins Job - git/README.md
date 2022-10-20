@@ -1,6 +1,6 @@
 # Dockerfile - Configure Webhook - Trigger Jenkins Job - git
 
-![dig](https://user-images.githubusercontent.com/58173938/196878933-bd3906ec-43e6-4268-ad63-a312a71f5fe8.png)
+![dgj](https://user-images.githubusercontent.com/58173938/196911210-8f4e96eb-5b4b-4195-81f8-271d41dc1965.png)
 
 ### Create a [Dockerfile](https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD/blob/main/Dockerfile%20-%20Configure%20Webhook%20-%20Trigger%20Jenkins%20Job%20-%20git/Dockerfile/Dockerfile)
 
