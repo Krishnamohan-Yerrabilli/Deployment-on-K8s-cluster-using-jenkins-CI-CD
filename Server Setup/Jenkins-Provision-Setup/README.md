@@ -1,5 +1,5 @@
-After you install jenkins on the instance, copy the public url and open in the <br>
-Browser with port no 8080 
+After you install jenkins on the instance, copy the public url and open it in the <br>
+Browser with port 8080 
 
 This is what you see if you successfully installed jenkins on the server
 
