@@ -18,6 +18,15 @@ And push the Dockerfile to a separate [Repository](https://github.com/Krishnamoh
 
 ![3-creating-pipeline-new-item](https://user-images.githubusercontent.com/58173938/196874960-598d3ba3-c0f0-487a-ae23-0ba5685dc358.png)
 
+#### Select the pipeline 
+
+![4-select-pipeline](https://user-images.githubusercontent.com/58173938/196875229-e4a7e0d3-dd5e-49d5-8100-5e5794d94a1c.png)
+
+
+#### Enter youre repo name (separate repo we created for [jenkins-pipeline](https://github.com/Krishnamohan-Yerrabilli/jenkins-pipeline))
+
+![5-enter-your-repo-name](https://user-images.githubusercontent.com/58173938/196871684-eeb814d4-82fe-438d-9e65-6699b43c737f.png)
+
 
 
 
