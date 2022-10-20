@@ -45,7 +45,11 @@ And push the Dockerfile to a separate [Repository](https://github.com/Krishnamoh
 
 To provide the `api token`(one type of a secret), go to jenkins
 
+![10-apitoken-for-webhook-api-to-log-through](https://user-images.githubusercontent.com/58173938/196872699-ccce36cd-c7f1-4896-946c-7506cdc1a06b.png)
+*Copy the api-token and paste this in the github webhook.secret field*
 
+#### Save the stuff
+![11-secret-in-hooks](https://user-images.githubusercontent.com/58173938/196872909-20d69f75-39a6-4370-afed-309f54a9b4e4.png)
 
 
 
