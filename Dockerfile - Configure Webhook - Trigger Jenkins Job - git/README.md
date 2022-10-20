@@ -51,5 +51,9 @@ To provide the `api token`(one type of a secret), go to jenkins
 #### Save the stuff
 ![11-secret-in-hooks](https://user-images.githubusercontent.com/58173938/196872909-20d69f75-39a6-4370-afed-309f54a9b4e4.png)
 
+#### Reload to ping (You will get a succesful checkmark) after you done
+
+![12-refreshthe-sping](https://user-images.githubusercontent.com/58173938/196873274-9bf34466-0035-4ba8-9f26-36ffb6aa1f91.png)
+
 
 
