@@ -4,6 +4,11 @@
 
 And push the Dockerfile to a separate [Repository](https://github.com/Krishnamohan-Yerrabilli/jenkins-pipeline)
 
+### why serparate repo?
+
+#### Because its makes easy to jenkins to fetch the file(more on this later)
+
+![1-Dockerfile](https://user-images.githubusercontent.com/58173938/196869950-4b9bee5c-885e-456b-8ed1-c0ab2a8b67a4.png)
 
 
 
