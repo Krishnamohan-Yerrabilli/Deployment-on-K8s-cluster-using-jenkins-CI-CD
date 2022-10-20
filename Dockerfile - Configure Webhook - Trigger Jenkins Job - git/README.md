@@ -36,7 +36,7 @@ And push the Dockerfile to a separate [Repository](https://github.com/Krishnamoh
 
 ![7-build-is-sucessfull-logs](https://user-images.githubusercontent.com/58173938/196871909-df7f8104-5465-45b1-892d-3207c157efc3.png)
 
-#### what we have done until now is a manual process, let's automate this stuff. select configure gitSCM
+#### What we have done until now is a manual process, let's automate this stuff. select configure gitSCM
 
 ![8-selectconfigure-gitscm](https://user-images.githubusercontent.com/58173938/196872231-04bc8ed2-ffee-42b7-ae05-dd9af2641789.png)
 
@@ -44,7 +44,7 @@ And push the Dockerfile to a separate [Repository](https://github.com/Krishnamoh
 
 ![9-configure-webhook](https://user-images.githubusercontent.com/58173938/196872293-1ed5e5cd-fab4-4e8b-877b-63082590f34d.png)
 
-To provide the `API token`(one type of secret), go to Jenkins
+#### To provide the `API token`(one type of secret), go to Jenkins
 
 ![10-apitoken-for-webhook-api-to-log-through](https://user-images.githubusercontent.com/58173938/196872699-ccce36cd-c7f1-4896-946c-7506cdc1a06b.png)
 *Copy the API token and paste this into the GitHub webhook. secret field*
