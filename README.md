@@ -62,7 +62,7 @@ so whenever there is a new commit to the GitHub repo When the new code arrives i
 
 - [Server Setup](https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD/tree/main/Server%20Setup) 
 - [Dockerfile - Configure Webhook - Trigger Jenkins Job - git](https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD/tree/main/Dockerfile%20-%20Configure%20Webhook%20-%20Trigger%20Jenkins%20Job%20-%20git) 
-- Transfer & Execute files on remote server using SshAgent
+- [Transfer & Execute files on remote server using SshAgent](https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD/tree/main/Transfer%20%26%20Execute%20files%20on%20remote%20server%20using%20SshAgent)
 - Build docker Images using Dockerfile - Tag docker images
 - Complete Declarative CI/CD Pipelines in Jenkins Project - Push Images to DockerHub
 - Complete Real-time Deployment on Kubernetes cluster using jenkins CI/CD
