@@ -68,8 +68,11 @@ We will see, how we can send our docker file to the ansible using ssh agent <br>
 
 ![15-click-on-buildnow-it-will-start-the-server](https://user-images.githubusercontent.com/58173938/197100624-ab90bc07-027e-4b58-8d52-a91ebe26635d.png)
 
+#### Sent files to ansible over scp 
 
-#### 
+![16-sent-files-over-scp-to-ansible](https://user-images.githubusercontent.com/58173938/197100975-22278ca1-c804-45bb-beab-c30bb6aaca0f.png)
+
+
 
 
 
