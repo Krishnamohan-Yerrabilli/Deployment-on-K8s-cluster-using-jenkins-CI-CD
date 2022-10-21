@@ -51,6 +51,10 @@ We will see, how we can send our docker file to the ansible using ssh agent <br>
 
 ![11-select-the-ans-ser-ip](https://user-images.githubusercontent.com/58173938/197099906-27aae10f-c086-4528-9ca5-2e1017b44073.png)
 
+#### Paste the ansible server Public IP in the Groovy script
+
+![12-paste-the-ans-ser-ip-in-the-script](https://user-images.githubusercontent.com/58173938/197100014-42ac6550-cfeb-4eee-b875-136faa3ad3ff.png)
+
 
 
 
