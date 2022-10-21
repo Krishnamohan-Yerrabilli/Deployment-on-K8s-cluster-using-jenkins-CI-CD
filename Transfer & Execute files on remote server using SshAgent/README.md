@@ -7,3 +7,7 @@ We will see, how we can send our docker file to the ansible using ssh agent <br>
   
 </div>
 
+#### Go to Jenkins and select configure
+
+![1-Go-to-Jenkins-and-select-configure](https://user-images.githubusercontent.com/58173938/197098191-c399d4a0-2d57-4d04-bed9-53a1c81da4ca.png)
+
