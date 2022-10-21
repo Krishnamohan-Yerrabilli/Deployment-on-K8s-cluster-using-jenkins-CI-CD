@@ -34,7 +34,9 @@ After sucessfull installation type `putty` in the respected fiels, enter putty i
 or enter putty in you're terminal
 <br />
 
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/58173938/196961621-7eccbd18-8afc-4591-8879-878223e20c18.png" alt="Logo" >
+</div>
 
 Before you copy your instance Public Ip address, make sure you download `.ppk` key-pair 
  
