@@ -59,11 +59,17 @@ We will see, how we can send our docker file to the ansible using ssh agent <br>
 
 ![13-copythe-path, this is the path we passing over scp](https://user-images.githubusercontent.com/58173938/197100245-7fd7530b-e21d-4c18-b761-ca810c863c8b.png)
 
+#### Paste the path, in the groovy script as sh(shell script) and <br>click on save and apply
+
+![14-paste the path, in the gs as sh and click on save and apply](https://user-images.githubusercontent.com/58173938/197100409-dbb18ba2-398a-496a-b542-2460878cda8c.png)
 
 
+#### Select buildnow it will start the server(script)
+
+![15-click-on-buildnow-it-will-start-the-server](https://user-images.githubusercontent.com/58173938/197100624-ab90bc07-027e-4b58-8d52-a91ebe26635d.png)
 
 
-
+#### 
 
 
 
