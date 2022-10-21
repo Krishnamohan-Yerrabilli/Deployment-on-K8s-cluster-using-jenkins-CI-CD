@@ -55,6 +55,15 @@ We will see, how we can send our docker file to the ansible using ssh agent <br>
 
 ![12-paste-the-ans-ser-ip-in-the-script](https://user-images.githubusercontent.com/58173938/197100014-42ac6550-cfeb-4eee-b875-136faa3ad3ff.png)
 
+#### copy the path, this is the path we passing over scp(secure copy) to the ansible
+
+![13-copythe-path, this is the path we passing over scp](https://user-images.githubusercontent.com/58173938/197100245-7fd7530b-e21d-4c18-b761-ca810c863c8b.png)
+
+
+
+
+
+
 
 
 
