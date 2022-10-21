@@ -39,9 +39,9 @@ We will see, how we can send our docker file to the ansible using ssh agent <br>
 
 ![8-paste the all the data-inside key field and select add](https://user-images.githubusercontent.com/58173938/197099488-a842ecab-8055-4824-82f0-1c86318f0ee4.png)
 
+#### Copy the generated pipeline script
 
-
-
+![9-copy-the-generated-pipeline-script](https://user-images.githubusercontent.com/58173938/197099660-2c31367b-e41e-4177-9f3f-4fe0bcd5cdc6.png)
 
 
 
