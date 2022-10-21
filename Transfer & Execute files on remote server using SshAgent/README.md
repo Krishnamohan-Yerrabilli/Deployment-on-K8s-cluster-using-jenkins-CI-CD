@@ -47,8 +47,9 @@ We will see, how we can send our docker file to the ansible using ssh agent <br>
 
 ![10-paste-the-generated-pipeline-script](https://user-images.githubusercontent.com/58173938/197099749-f5dfde90-0b15-480e-8927-0a18d9cd2cd5.png)
 
-#### 
+#### Select the ansible server Public IP
 
+![11-select-the-ans-ser-ip](https://user-images.githubusercontent.com/58173938/197099906-27aae10f-c086-4528-9ca5-2e1017b44073.png)
 
 
 
