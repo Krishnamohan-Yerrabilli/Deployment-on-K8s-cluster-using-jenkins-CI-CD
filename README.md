@@ -1,14 +1,12 @@
-<a href="https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD">
-  <img src="https://www.dmuth.org/wp-content/uploads/2019/03/docker-logo.png" alt="Logo" width="150" height="150">
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Logo" width="150" height="150">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Logo" width="150" height="150">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" alt="Logo" width="150" height="150">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="Logo" width="150" height="150">
-</a>
-
-<br>
+<div align="center">
 
 ## Deployment-on-Kubernetes-cluster-using-jenkins-CI-CD-Project
+
+![whole project dig](https://user-images.githubusercontent.com/58173938/197095134-b902cdaa-6e42-4fa1-878c-4565c1363f90.png)
+</div>
+<br>
+
+
 
 We will have a deployment over a Kubernetes cluster using Jenkins CI/CD pipeline,  <br>
 in this project, we are taking the help of various DevOps tools like GitHub, Jenkins,  <br>
