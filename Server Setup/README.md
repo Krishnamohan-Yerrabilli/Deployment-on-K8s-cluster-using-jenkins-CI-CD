@@ -1,15 +1,22 @@
+<div align="center">
 
 ## Pre-Setup
 
-Provision 3 ec2 instances 
+ <a href="https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD/tree/main/Server%20Setup">
+    <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-storage/choose-the-right-storage-service/images/23503c0e213838f002f2ba4821871597_4-c-068800-faf-9-4-c-3-d-85-c-5-a-9985-ed-4700-a.png" alt="kuber" width="200" height="200">
+</div>
 
-For this project purpose, set security groups to allow all incoming traffic, for all 3 instances
 
-setup 2 instances for jenkins(Jenkins-server) and ansible(Ansible-server) (use t2.micro) for both instances, give volume 10gb per instance
+- Provision 3 EC2 instances <br>
 
-setup 1 instance for (Webapp-server)k8s cluster (use t2.medium) 8gb for the instace
+- For this project purpose, set security groups to allow all incoming traffic, for all 3 instances
 
-for this project purpose, set security groups to allow all incoming traffic
+- Setup 2 instances for jenkins(Jenkins-server) and ansible(Ansible-server) (use t2.micro) for <br>
+ both instances, give volume 10gb per instance
+
+- Setup 1 instance for (Webapp-server)k8s cluster (use t2.medium) 8gb for the instace
+
+- For this project purpose, set security groups to allow all incoming traffic
 <br>
 
 ![Provision-EC2](https://user-images.githubusercontent.com/58173938/196746222-fc3342f2-9e7e-43a3-978b-9ace8aebe186.png)
@@ -27,9 +34,7 @@ After sucessfull installation type `putty` in the respected fiels, enter putty i
 or enter putty in you're terminal
 <br />
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/58173938/196751664-7afc0154-1fd9-42ad-b4a2-f926bf205b71.png" alt="Logo" >
-</div>
+
 
 Before you copy your instance Public Ip address, make sure you download `.ppk` key-pair 
  
