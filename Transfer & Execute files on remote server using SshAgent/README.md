@@ -23,3 +23,14 @@ We will see, how we can send our docker file to the ansible using ssh agent <br>
 
 ![4-select-ssh-username-private-key](https://user-images.githubusercontent.com/58173938/197098807-801aed73-fbf8-41ef-8fac-8c41b8ae563a.png)
 
+#### Select ID and description as ansible and username as ubuntu
+
+![5-select-id-as-ans-same-des-username-as-ubuntu](https://user-images.githubusercontent.com/58173938/197098990-3f70d043-a268-4b02-b7fb-b4c528a2111f.png)
+
+
+
+
+
+
+
+
