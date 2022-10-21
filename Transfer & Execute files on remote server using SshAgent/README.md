@@ -72,7 +72,13 @@ We will see, how we can send our docker file to the ansible using ssh agent <br>
 
 ![16-sent-files-over-scp-to-ansible](https://user-images.githubusercontent.com/58173938/197100975-22278ca1-c804-45bb-beab-c30bb6aaca0f.png)
 
+#### Now SSH into ansible to check files are replicated or not
 
+![17-now-ssh-ansible-to-check-files-are-replicated or not](https://user-images.githubusercontent.com/58173938/197101216-7075f240-79f1-474b-b8e8-65a8e1fd7c39.png)
 
+#### Files has been copied sucessfully
 
+![18-files-has-been-copied-sucessfully](https://user-images.githubusercontent.com/58173938/197101246-2c65bd82-de9a-43bd-a79a-bd8abee35eb5.png)
+
+That's it for this part, happy learning!!
 
