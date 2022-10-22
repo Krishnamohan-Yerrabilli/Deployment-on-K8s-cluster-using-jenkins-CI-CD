@@ -17,3 +17,7 @@ latest image for 1.4 also you will get the latest image and so on...
 
 while we going through that process we are maintaining a version of the image so that at any <br>
 point of time we can do roll back, let's hop into it.
+
+### Select our Jenkins Pipeline
+
+![1-select-our-jenkins-pipeline](https://user-images.githubusercontent.com/58173938/197314551-1494d93d-553e-4a52-8923-b81f681a9d70.png)
