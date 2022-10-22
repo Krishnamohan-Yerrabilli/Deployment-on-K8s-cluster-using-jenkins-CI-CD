@@ -54,7 +54,9 @@ point of time we can do roll back, let's hop into it.
 
 ![8 script for tag the image](https://user-images.githubusercontent.com/58173938/197315203-0f9fa87b-a237-4d64-a739-c692e1f8e36d.png)
 
+### Now apply and save the changes
 
+![9 now apply and save](https://user-images.githubusercontent.com/58173938/197315247-6cd7174d-7636-499f-807e-5541e5cffa3f.png)
 
 
 
