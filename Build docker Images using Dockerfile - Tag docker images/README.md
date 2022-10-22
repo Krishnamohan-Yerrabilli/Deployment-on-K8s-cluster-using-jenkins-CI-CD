@@ -46,6 +46,15 @@ point of time we can do roll back, let's hop into it.
 
 ![6-errors-solved-build-successful-and-solution](https://user-images.githubusercontent.com/58173938/197314956-e587a2cf-9474-43c2-9f9c-3aefc10a37db.png)
 
+### Wohoo we successfully build the image
+
+![7-we successfully build the image](https://user-images.githubusercontent.com/58173938/197315061-8078a84e-2e22-4e03-b1e5-bfad72bfa0f0.png)
+
+
+
+
+
+
 
 
 
