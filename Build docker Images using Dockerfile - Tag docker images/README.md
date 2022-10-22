@@ -42,9 +42,9 @@ point of time we can do roll back, let's hop into it.
 
 ![5-changin-into-private-ip](https://user-images.githubusercontent.com/58173938/197314843-566f367b-0d09-46c4-8a8a-48c9f106dd1b.png)
 
-### 
+### Error-solved-build-successful and here is the [solution](https://www.reddit.com/user/Mohanse7/comments/y9ocfs/solution_permission_was_denied_while_trying_to/) I posted in reddit 
 
-
+![6-errors-solved-build-successful-and-solution](https://user-images.githubusercontent.com/58173938/197314956-e587a2cf-9474-43c2-9f9c-3aefc10a37db.png)
 
 
 
