@@ -5,8 +5,8 @@
 
 </div>
 
-Today we build the image based on the docker file along with the tag mainly <br>
-doing this for version maintaining
+Were going to build the image based on the docker file along with the tag <br>
+It's important to track images aka (version maintaining)
 
 will have a job based on the build number, it will have a tag with the image we will use the <br> 
 pipeline job name along with that we will have the build number so how many times we are <br>
