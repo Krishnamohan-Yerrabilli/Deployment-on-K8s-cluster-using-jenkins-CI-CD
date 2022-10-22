@@ -26,3 +26,23 @@ point of time we can do roll back, let's hop into it.
 
 ![2-select-configure-in-the-pipeline-we-created](https://user-images.githubusercontent.com/58173938/197314672-f98aa228-e4b1-4881-b9fd-3ea562edf357.png)
 
+### Build the docker image by adding the stage block 
+
+![3-build the docker imageby adding the stage block going home building the image](https://user-images.githubusercontent.com/58173938/197314749-5ce23783-c7bd-4834-97bd-66e0409ac592.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
