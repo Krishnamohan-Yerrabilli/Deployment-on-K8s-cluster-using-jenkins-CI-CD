@@ -50,10 +50,9 @@ point of time we can do roll back, let's hop into it.
 
 ![7-we successfully build the image](https://user-images.githubusercontent.com/58173938/197315061-8078a84e-2e22-4e03-b1e5-bfad72bfa0f0.png)
 
+### Adding Groovy Script for tagging the image
 
-
-
-
+![8 script for tag the image](https://user-images.githubusercontent.com/58173938/197315203-0f9fa87b-a237-4d64-a739-c692e1f8e36d.png)
 
 
 
