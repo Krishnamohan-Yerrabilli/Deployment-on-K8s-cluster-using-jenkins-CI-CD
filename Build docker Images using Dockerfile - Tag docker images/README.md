@@ -30,10 +30,9 @@ point of time we can do roll back, let's hop into it.
 
 ![3-build the docker imageby adding the stage block going home building the image](https://user-images.githubusercontent.com/58173938/197314749-5ce23783-c7bd-4834-97bd-66e0409ac592.png)
 
+### Apply and save the changes
 
-
-
-
+![4-apply and save the changes](https://user-images.githubusercontent.com/58173938/197314784-7ca247f7-02f1-427a-89b5-c9964e0ecf2b.png)
 
 
 
