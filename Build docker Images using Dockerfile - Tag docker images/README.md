@@ -34,10 +34,11 @@ point of time we can do roll back, let's hop into it.
 
 ![4-apply and save the changes](https://user-images.githubusercontent.com/58173938/197314784-7ca247f7-02f1-427a-89b5-c9964e0ecf2b.png)
 
+### Changing into private ip
 
+![5-changin-into-private-ip](https://user-images.githubusercontent.com/58173938/197314843-566f367b-0d09-46c4-8a8a-48c9f106dd1b.png)
 
-
-
+### 
 
 
 
