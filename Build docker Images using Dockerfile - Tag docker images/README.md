@@ -34,8 +34,9 @@ point of time we can do roll back, let's hop into it.
 
 ![4-apply and save the changes](https://user-images.githubusercontent.com/58173938/197314784-7ca247f7-02f1-427a-89b5-c9964e0ecf2b.png)
 
+### Trobuleshoot the fail build
 
-
+![4-trobule-shooting-the-error](https://user-images.githubusercontent.com/58173938/197314895-8a6e663e-7160-4618-8f8a-af9be00749d4.png)
 
 ### Changing into private ip
 
