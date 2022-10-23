@@ -65,7 +65,11 @@ from tagged images.
 
 ![13- now select buildnow to do all the work we assigned to the jenkins](https://user-images.githubusercontent.com/58173938/197372343-84fe97fa-ad5b-4f6a-94e2-28707e86fbf5.png)
 
+### Image has been successfully pushed to docker hub
 
+![14- see now image has been succesfully pushed to docker hub](https://user-images.githubusercontent.com/58173938/197372427-5a026a10-87fe-42b4-875e-7647169b80e6.png)
+
+Happy learning!!
 
 
 
