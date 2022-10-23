@@ -49,6 +49,11 @@ from tagged images.
 
 ![9-we docker push script sh intiated](https://user-images.githubusercontent.com/58173938/197372266-b18b5d6d-071a-4322-8abb-48d6000cdbab.png)
 
+### Save and apply 
+
+![10-save and apply ](https://user-images.githubusercontent.com/58173938/197372286-a8fa1034-6ba0-4ff3-a67a-811ed07dc277.png)
+
+
 
 
 
