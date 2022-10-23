@@ -25,3 +25,8 @@ from tagged images.
 
 ![3-log-back-to-jenkins](https://user-images.githubusercontent.com/58173938/197372116-0342b76e-ed25-4a61-8cac-437cce18fc86.png)
 
+### Password is not good, we use creditails Plugin
+
+![4-password-isnotgood-so-we-use-creditails-plugin](https://user-images.githubusercontent.com/58173938/197372120-c4e7e76c-b1c9-4da3-b6d8-fa74f9befd22.png)
+
+
