@@ -61,6 +61,10 @@ from tagged images.
 
 ![12- enter your dockerhub crenditails](https://user-images.githubusercontent.com/58173938/197372320-6247231c-d9ff-43ba-9d14-34d72e2b41e7.png)
 
+### Select buildnow to do all the work that we assigned to the jenkins
+
+![13- now select buildnow to do all the work we assigned to the jenkins](https://user-images.githubusercontent.com/58173938/197372343-84fe97fa-ad5b-4f6a-94e2-28707e86fbf5.png)
+
 
 
 
