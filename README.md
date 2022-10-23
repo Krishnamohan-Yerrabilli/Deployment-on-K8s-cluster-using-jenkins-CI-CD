@@ -2,7 +2,7 @@
 
 ## Deployment-on-Kubernetes-cluster-using-jenkins-CI-CD-Project
 
-![Kubernetes final image (9)](https://user-images.githubusercontent.com/58173938/197371041-c63a95d6-9905-4beb-833b-cc9e1ac6562f.png)
+![Kubernetes final image (12)](https://user-images.githubusercontent.com/58173938/197373162-1f510766-4437-41ba-b6f8-deead93c7693.png)
 
 </div>
 <br>
