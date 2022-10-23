@@ -37,6 +37,12 @@ from tagged images.
 
 ![6-provide-your-secret](https://user-images.githubusercontent.com/58173938/197372194-4bafd48a-950e-491a-8868-ca2b4aef5f75.png)
 
+### Copy the generated password
+
+![7-copy the generated password](https://user-images.githubusercontent.com/58173938/197372206-824fb63d-b77a-4c6c-b30e-8dfaad9bf725.png)
+
+### Password is created, now were gone push images to the docker registry
+
 
 
 
