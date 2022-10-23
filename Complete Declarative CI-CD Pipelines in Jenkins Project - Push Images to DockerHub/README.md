@@ -21,4 +21,7 @@ from tagged images.
 
 ![2-dockerhub](https://user-images.githubusercontent.com/58173938/197372105-10ec86dd-e938-4da4-af91-c3ddf86d83fb.png)
 
+### Log back to the jenkins server
+
+![3-log-back-to-jenkins](https://user-images.githubusercontent.com/58173938/197372116-0342b76e-ed25-4a61-8cac-437cce18fc86.png)
 
