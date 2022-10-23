@@ -1,6 +1,6 @@
 <div align="center">
 
-## Deployment-on-Kubernetes-cluster-using-jenkins-CI-CD-Project[Kubernetes final image.pdf]
+## Deployment-on-Kubernetes-cluster-using-jenkins-CI-CD-Project
 
 ![Kubernetes final image (9)](https://user-images.githubusercontent.com/58173938/197371041-c63a95d6-9905-4beb-833b-cc9e1ac6562f.png)
 
