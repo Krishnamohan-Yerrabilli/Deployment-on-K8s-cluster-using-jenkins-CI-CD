@@ -18,3 +18,7 @@ It builds v1, it contains a fresh image
 If the second time it builds another image v2, so that the second one contains the latest <br>
 image, we're also maintaining version control, cause we also see how to separate the latest image <br>
 from tagged images.
+
+![2-dockerhub](https://user-images.githubusercontent.com/58173938/197372105-10ec86dd-e938-4da4-af91-c3ddf86d83fb.png)
+
+
