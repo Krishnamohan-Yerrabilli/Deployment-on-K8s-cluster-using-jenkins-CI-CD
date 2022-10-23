@@ -57,6 +57,11 @@ from tagged images.
 
 ![11-copy the public ip and ssh to the server](https://user-images.githubusercontent.com/58173938/197372300-470c8262-4365-4428-a39c-cb68552a26d3.png)
 
+### Enter your dockerhub crenditails for authentication purposes
+
+![12- enter your dockerhub crenditails](https://user-images.githubusercontent.com/58173938/197372320-6247231c-d9ff-43ba-9d14-34d72e2b41e7.png)
+
+
 
 
 
