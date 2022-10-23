@@ -33,3 +33,10 @@ from tagged images.
 
 ![5-secret-text-for-pass-plugin](https://user-images.githubusercontent.com/58173938/197372174-529f8bb4-6a85-4e07-b0b1-97d5678b6ead.png)
 
+### Provide your secret
+
+![6-provide-your-secret](https://user-images.githubusercontent.com/58173938/197372194-4bafd48a-950e-491a-8868-ca2b4aef5f75.png)
+
+
+
+
