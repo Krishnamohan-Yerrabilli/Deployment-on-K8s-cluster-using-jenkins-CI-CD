@@ -43,6 +43,9 @@ from tagged images.
 
 ### Password is created, now were gone push images to the docker registry
 
+![8-password is done now we want to push the images](https://user-images.githubusercontent.com/58173938/197372223-290dd734-183a-4991-b7b9-49f2883c6947.png)
+
+
 
 
 
