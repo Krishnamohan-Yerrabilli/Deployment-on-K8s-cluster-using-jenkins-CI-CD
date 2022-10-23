@@ -53,6 +53,9 @@ from tagged images.
 
 ![10-save and apply ](https://user-images.githubusercontent.com/58173938/197372286-a8fa1034-6ba0-4ff3-a67a-811ed07dc277.png)
 
+### Copy the Public ip to ssh to the server
+
+![11-copy the public ip and ssh to the server](https://user-images.githubusercontent.com/58173938/197372300-470c8262-4365-4428-a39c-cb68552a26d3.png)
 
 
 
