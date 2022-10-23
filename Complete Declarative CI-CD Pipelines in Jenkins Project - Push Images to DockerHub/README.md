@@ -45,6 +45,10 @@ from tagged images.
 
 ![8-password is done now we want to push the images](https://user-images.githubusercontent.com/58173938/197372223-290dd734-183a-4991-b7b9-49f2883c6947.png)
 
+### We docker push script sh intiated
+
+![9-we docker push script sh intiated](https://user-images.githubusercontent.com/58173938/197372266-b18b5d6d-071a-4322-8abb-48d6000cdbab.png)
+
 
 
 
