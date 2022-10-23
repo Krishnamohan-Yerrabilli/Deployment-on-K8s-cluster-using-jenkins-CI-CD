@@ -4,7 +4,7 @@
 
 </div>
 
-![dgj](https://user-images.githubusercontent.com/58173938/196911210-8f4e96eb-5b4b-4195-81f8-271d41dc1965.png)
+![Kubernetes final image (10)](https://user-images.githubusercontent.com/58173938/197371867-7119edd2-215d-4362-8f6a-a7483561e34f.png)
 
 ### Create a [Dockerfile](https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD/blob/main/Dockerfile%20-%20Configure%20Webhook%20-%20Trigger%20Jenkins%20Job%20-%20git/Dockerfile/Dockerfile)
 
