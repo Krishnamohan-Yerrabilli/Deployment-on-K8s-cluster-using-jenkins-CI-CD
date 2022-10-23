@@ -1,7 +1,8 @@
 <div align="center">
 
 # Build docker Images using Dockerfile - Tag docker images
-![0-build-image](https://user-images.githubusercontent.com/58173938/197314070-ba270f97-192f-4505-810a-f1bae5b2e7a7.png)
+
+![updated](https://user-images.githubusercontent.com/58173938/197371757-eac9291d-9ba1-462c-bdb2-cb1e1e00a2e3.png)
 
 </div>
 
