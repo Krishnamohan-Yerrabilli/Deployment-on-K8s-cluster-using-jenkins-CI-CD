@@ -29,5 +29,7 @@ from tagged images.
 
 ![4-password-isnotgood-so-we-use-creditails-plugin](https://user-images.githubusercontent.com/58173938/197372120-c4e7e76c-b1c9-4da3-b6d8-fa74f9befd22.png)
 
+### Secret text for password plugin
 
+![5-secret-text-for-pass-plugin](https://user-images.githubusercontent.com/58173938/197372174-529f8bb4-6a85-4e07-b0b1-97d5678b6ead.png)
 
