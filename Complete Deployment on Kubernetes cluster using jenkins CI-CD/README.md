@@ -47,5 +47,13 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![8- Genrate Public key in the ansible server](https://user-images.githubusercontent.com/58173938/197497206-73336fd5-5e9d-4f80-ae77-d5200e89a14c.png)
 
+### Select the ansible public generated key to the webapp server(k8s cluster) enter the password which you previously created
+
+![9-Copy the ansible public generated key to the webapp server(k8s cluster) enter the password which you previously created](https://user-images.githubusercontent.com/58173938/197497331-5cb625d3-b9c3-4368-a2bc-0deac37a7b91.png)
+
+### As you can see now we can ssh through other server without need of the password
+
+![10- As you can see now we can ssh through other server without need of the password](https://user-images.githubusercontent.com/58173938/197497403-7575a61d-f475-4ff0-b0bd-77954959f8da.png)
+
 
 
