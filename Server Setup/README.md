@@ -7,16 +7,7 @@
 </div>
 
 
-- Provision 3 EC2 instances <br>
-
-- For this project purpose, set security groups to allow all incoming traffic, for all 3 instances
-
-- Setup 2 instances for jenkins(Jenkins-server) and ansible(Ansible-server) (use t2.micro) for <br>
- both instances, give volume 10gb per instance
-
-- Setup 1 instance for (Webapp-server)k8s cluster (use t2.medium) 8gb for the instace
-
-- For this project purpose, set security groups to allow all incoming traffic
+Provision `3 EC2 instances` For this project purpose, set security groups to allow all incoming traffic, for all 3 instances Setup `2 instances` for Jenkins(Jenkins-server) and ansible(Ansible-server) (use `t2.micro`) for both instances, give `volume 10GB` per instance `Setup 1 instance` for (Webapp-server)k8s cluster (use `t2.medium`) 25GB for the instance For this project purpose, `set security groups to allow all incoming traffic`
 <br>
 
 ![Provision-EC2](https://user-images.githubusercontent.com/58173938/196746222-fc3342f2-9e7e-43a3-978b-9ace8aebe186.png)
