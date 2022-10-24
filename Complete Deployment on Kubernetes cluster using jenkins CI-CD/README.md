@@ -87,11 +87,11 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![18- Add the Deployment file to the jenkins-pipeline repo](https://user-images.githubusercontent.com/58173938/197498072-d1da778b-193f-4bd2-9086-43bd9faf9373.png)
 
-### Add the servicefile to the jenkins-pipeline repo.png
+### Add the servicefile to the jenkins-pipeline repo
 
 ![19- Add the servicefile to the jenkins-pipeline repo png](https://user-images.githubusercontent.com/58173938/197498148-79973626-b457-4c3b-a585-593fea441094.png)
 
-### Add the ansible playbook to the jenkins-pipeline repo.png.png
+### Add the ansible playbook to the jenkins-pipeline repo
 
 ![20- Add the ansible playbook to the jenkins-pipeline repo png png](https://user-images.githubusercontent.com/58173938/197498255-97fd0179-d21f-4ed6-a408-5f2bd59a1091.png)
 
@@ -103,10 +103,13 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![22- Add the ansible playbook to run script](https://user-images.githubusercontent.com/58173938/197498491-d49fb0c8-a28e-4c82-9bd1-fc5f9bf0f5dc.png)
 
-### Build is successful. ansible playbook has been runing successfully
+### Build is successful ansible playbook runing successfully
 
 ![23- Build is successul  ansible playbook has been runing successfully](https://user-images.githubusercontent.com/58173938/197498578-5f128a02-ff9c-4d37-b9f9-81696c91ddd8.png)
 
+### Lets access the webpage from the nodeport service
 
+![24-lets access the webpage from the nodeport service](https://user-images.githubusercontent.com/58173938/197498747-4fac23b9-eabb-4deb-9cc1-a9676299f31b.png)
 
+Happy learning!
 
