@@ -91,6 +91,9 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![19- Add the servicefile to the jenkins-pipeline repo png](https://user-images.githubusercontent.com/58173938/197498148-79973626-b457-4c3b-a585-593fea441094.png)
 
+### Add the ansible playbook to the jenkins-pipeline repo.png.png
+
+![20- Add the ansible playbook to the jenkins-pipeline repo png png](https://user-images.githubusercontent.com/58173938/197498255-97fd0179-d21f-4ed6-a408-5f2bd59a1091.png)
 
 
 
