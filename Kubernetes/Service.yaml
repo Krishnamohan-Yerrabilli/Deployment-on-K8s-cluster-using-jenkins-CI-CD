@@ -1,0 +1,14 @@
+kind: Service                             
+apiVersion: v1
+metadata:
+  name: webapp-deployment
+  labels:
+    app: webapp-deployment
+spec:
+  ports:
+    - port: 8080                               
+      targetPort: 80
+      nodePort: 32145
+  selector:
+    app: webapp-deployment                    
+  type: LoadBalancer                   
