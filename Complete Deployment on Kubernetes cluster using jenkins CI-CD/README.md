@@ -19,3 +19,7 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![1-copy the ansible public ip address for ssh to the server](https://user-images.githubusercontent.com/58173938/197496057-5928e3fd-6a9d-42fb-bc6e-e38248031e1b.png)
 
+### Select the webapp-server(k8s cluster) and do ssh to the server via putty
+
+![2- copy the webapp-server(k8s cluster) for ssh to the server](https://user-images.githubusercontent.com/58173938/197496329-a5e59924-728c-4af2-aad1-ae2d57e42ab6.png)
+ 
