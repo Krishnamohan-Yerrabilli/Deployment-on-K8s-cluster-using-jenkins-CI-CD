@@ -103,5 +103,10 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![22- Add the ansible playbook to run script](https://user-images.githubusercontent.com/58173938/197498491-d49fb0c8-a28e-4c82-9bd1-fc5f9bf0f5dc.png)
 
+### Build is successful. ansible playbook has been runing successfully
+
+![23- Build is successul  ansible playbook has been runing successfully](https://user-images.githubusercontent.com/58173938/197498578-5f128a02-ff9c-4d37-b9f9-81696c91ddd8.png)
+
+
 
 
