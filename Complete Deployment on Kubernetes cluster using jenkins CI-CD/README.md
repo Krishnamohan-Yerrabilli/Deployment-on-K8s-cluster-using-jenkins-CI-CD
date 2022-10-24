@@ -39,4 +39,8 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![6- enable PermitRootLogin, PasswordAuthentication to yes](https://user-images.githubusercontent.com/58173938/197496738-aae168a7-b3e6-4874-b527-239d633ebef5.png)
 
+### Now restart the sshd service 
+
+![7- Now restart the sshd service ](https://user-images.githubusercontent.com/58173938/197496900-e7cd5063-978a-43cd-ad3b-36d7d6f76750.png)
+
 
