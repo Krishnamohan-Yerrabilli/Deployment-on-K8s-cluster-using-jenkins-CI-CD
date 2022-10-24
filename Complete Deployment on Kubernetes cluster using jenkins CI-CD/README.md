@@ -75,6 +75,10 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![15- Copy the generated script](https://user-images.githubusercontent.com/58173938/197497808-c4389405-108d-4978-b698-f5f87c42753a.png)
 
+### Make a connection bweteen jenkins and directly to the kubernetes server
+
+![16- make a connection bweteen jenkins and directly to the kubernetes server](https://user-images.githubusercontent.com/58173938/197497885-b91a96f4-2a89-4eaa-968e-d282c8ca0e1e.png)
+
 
 
 
