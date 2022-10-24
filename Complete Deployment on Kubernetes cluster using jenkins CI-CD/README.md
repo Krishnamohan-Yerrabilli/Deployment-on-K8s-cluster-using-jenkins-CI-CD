@@ -43,4 +43,9 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![7- Now restart the sshd service ](https://user-images.githubusercontent.com/58173938/197496900-e7cd5063-978a-43cd-ad3b-36d7d6f76750.png)
 
+### Genrate Public key in the ansible server
+
+![8- Genrate Public key in the ansible server](https://user-images.githubusercontent.com/58173938/197497206-73336fd5-5e9d-4f80-ae77-d5200e89a14c.png)
+
+
 
