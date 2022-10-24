@@ -35,4 +35,8 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![5- open sshconfig file we do this to allow network permissions](https://user-images.githubusercontent.com/58173938/197496657-4604368b-b03d-4ca2-9b7d-002447aa496b.png)
 
+### Enable PermitRootLogin, PasswordAuthentication to yes
+
+![6- enable PermitRootLogin, PasswordAuthentication to yes](https://user-images.githubusercontent.com/58173938/197496738-aae168a7-b3e6-4874-b527-239d633ebef5.png)
+
 
