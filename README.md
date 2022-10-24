@@ -7,6 +7,15 @@
 </div>
 <br>
 
+## Prerequisites/tools needed to work on this project. 
+
+- [AWS](https://github.com/awsdocs/amazon-ec2-user-guide/blob/master/doc_source/EC2_GetStarted.md)
+- [Containers](https://www.redhat.com/en/topics/containers/whats-a-linux-container)
+- [Docker](https://docs.docker.com/get-started/overview/)
+- [Kubernetes](https://github.com/Krishnamohan-Yerrabilli/Kubernetes-hands-on)
+- [Jenkins](https://www.jenkins.io/doc/tutorials/)
+- [Ansible](https://docs.ansible.com/ansible/latest/getting_started/index.html)
+
 We will have a deployment over a Kubernetes cluster using Jenkins CI/CD pipeline,  <br>
 in this project, we are taking the help of various DevOps tools like GitHub, Jenkins, <br>
 Ansible and a Kubernetes cluster(2 nodes).
