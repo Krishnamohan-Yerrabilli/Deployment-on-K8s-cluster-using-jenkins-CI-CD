@@ -15,3 +15,7 @@ the terminal along with the node port we are going to expose
 
 I posted some of the troubleshoot scenerios which i have gone through on the [reddit](https://www.reddit.com/user/Mohanse7)
 
+### Select the ansible public ip address and do ssh to the server via putty
+
+![1-copy the ansible public ip address for ssh to the server](https://user-images.githubusercontent.com/58173938/197496057-5928e3fd-6a9d-42fb-bc6e-e38248031e1b.png)
+
