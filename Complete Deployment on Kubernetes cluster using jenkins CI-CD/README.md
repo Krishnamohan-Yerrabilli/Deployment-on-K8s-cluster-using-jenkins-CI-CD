@@ -23,3 +23,7 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![2- copy the webapp-server(k8s cluster) for ssh to the server](https://user-images.githubusercontent.com/58173938/197496329-a5e59924-728c-4af2-aad1-ae2d57e42ab6.png)
  
+### Now we have logged into the 2 servers right one is ansible and left one is webapp-server(k8s cluster)
+
+![3- now we have logged into the 2 servers right one is ansible and left one is webapp-server(k8s cluster)](https://user-images.githubusercontent.com/58173938/197496413-248dee66-e90c-4703-ac65-844f083a1847.png)
+
