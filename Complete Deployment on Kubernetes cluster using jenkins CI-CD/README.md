@@ -55,5 +55,9 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![10- As you can see now we can ssh through other server without need of the password](https://user-images.githubusercontent.com/58173938/197497403-7575a61d-f475-4ff0-b0bd-77954959f8da.png)
 
+### Go to vi etc-ansible-hosts to add ip of the webserer(k8s cluster) after that save and exit
+
+![11- Go to vi etc-ansible-hosts to add ip of the webserer(k8s cluster) after that save and exit](https://user-images.githubusercontent.com/58173938/197497524-896af191-9bdf-4bc6-80c4-7c06942e357c.png)
+
 
 
