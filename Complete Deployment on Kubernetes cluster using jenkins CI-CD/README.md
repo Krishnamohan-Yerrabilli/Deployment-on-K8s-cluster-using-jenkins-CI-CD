@@ -59,5 +59,13 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![11- Go to vi etc-ansible-hosts to add ip of the webserer(k8s cluster) after that save and exit](https://user-images.githubusercontent.com/58173938/197497524-896af191-9bdf-4bc6-80c4-7c06942e357c.png)
 
+### Ping the server by your group id you created in the host file on ansible server (vi etc-ansible-hosts)
+
+![12- ping the server by your group id you created in the host file on ansible server (vi etc-ansible-hosts)](https://user-images.githubusercontent.com/58173938/197497588-7968013d-22e9-4751-aaea-668fbb1f9914.png)
+
+### Log back to jenkins
+
+![13- log back to jenkins](https://user-images.githubusercontent.com/58173938/197497643-443116f1-6cb1-4b1e-bafb-1f36c3b59921.png)
+
 
 
