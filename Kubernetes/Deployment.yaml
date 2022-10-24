@@ -1,0 +1,20 @@
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+   name: webapp-deployment
+spec:
+   replicas: 3
+   selector:     
+      matchLabels:
+         app: webapp-deployment
+   template:
+      metadata:
+         labels:
+            app: webapp-deployment
+      spec:
+         containers:
+            - name: webapp-deployment
+              image: mynameismohan/jenkins-pipeline
+              imagePullPolicy: Always
+              ports:
+               - containerPort: 80
