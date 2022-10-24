@@ -87,6 +87,11 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![18- Add the Deployment file to the jenkins-pipeline repo](https://user-images.githubusercontent.com/58173938/197498072-d1da778b-193f-4bd2-9086-43bd9faf9373.png)
 
+### Add the servicefile to the jenkins-pipeline repo.png
+
+![19- Add the servicefile to the jenkins-pipeline repo png](https://user-images.githubusercontent.com/58173938/197498148-79973626-b457-4c3b-a585-593fea441094.png)
+
+
 
 
 
