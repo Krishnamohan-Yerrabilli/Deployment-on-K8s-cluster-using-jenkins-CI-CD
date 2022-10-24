@@ -79,6 +79,14 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![16- make a connection bweteen jenkins and directly to the kubernetes server](https://user-images.githubusercontent.com/58173938/197497885-b91a96f4-2a89-4eaa-968e-d282c8ca0e1e.png)
 
+### As you can see, finally the pipeline was successful, I uploaded trouble shoot solutions on reddit
+
+![17- As you can see, finally the pipeline was successful, I uploaded trouble shoot solutions on reddit](https://user-images.githubusercontent.com/58173938/197497992-85d98cd3-cba4-4938-8c7f-4709c1753109.png)
+
+### Add the Deployment file to the jenkins-pipeline repo
+
+![18- Add the Deployment file to the jenkins-pipeline repo](https://user-images.githubusercontent.com/58173938/197498072-d1da778b-193f-4bd2-9086-43bd9faf9373.png)
+
 
 
 
