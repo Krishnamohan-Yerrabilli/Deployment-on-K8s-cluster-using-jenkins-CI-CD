@@ -99,5 +99,9 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![21-files has been succesful deployed to all the servers pipeline was successful](https://user-images.githubusercontent.com/58173938/197498406-456b2df0-0e97-43e8-a5dc-18879b8c72f6.png)
 
+### Add the ansible playbook to run script
+
+![22- Add the ansible playbook to run script](https://user-images.githubusercontent.com/58173938/197498491-d49fb0c8-a28e-4c82-9bd1-fc5f9bf0f5dc.png)
+
 
 
