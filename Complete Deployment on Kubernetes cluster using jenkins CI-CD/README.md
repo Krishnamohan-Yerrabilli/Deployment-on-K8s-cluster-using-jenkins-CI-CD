@@ -67,5 +67,9 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![13- log back to jenkins](https://user-images.githubusercontent.com/58173938/197497643-443116f1-6cb1-4b1e-bafb-1f36c3b59921.png)
 
+### Create an SSH with private key(key pair which you created for the instance)
+
+![14- Create an SSH with private key(key pair which you created for the instance)](https://user-images.githubusercontent.com/58173938/197497711-8e011924-8b74-4ce6-b50f-c9d8563a2fae.png)
+
 
 
