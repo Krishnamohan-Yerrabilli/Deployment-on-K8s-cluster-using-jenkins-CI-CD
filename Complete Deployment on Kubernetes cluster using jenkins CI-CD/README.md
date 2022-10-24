@@ -71,6 +71,10 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![14- Create an SSH with private key(key pair which you created for the instance)](https://user-images.githubusercontent.com/58173938/197497711-8e011924-8b74-4ce6-b50f-c9d8563a2fae.png)
 
+### Copy the generated script
+
+![15- Copy the generated script](https://user-images.githubusercontent.com/58173938/197497808-c4389405-108d-4978-b698-f5f87c42753a.png)
+
 
 
 
