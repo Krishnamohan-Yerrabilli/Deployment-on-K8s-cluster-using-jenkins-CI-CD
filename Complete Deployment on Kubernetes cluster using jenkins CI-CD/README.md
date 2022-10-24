@@ -95,6 +95,9 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![20- Add the ansible playbook to the jenkins-pipeline repo png png](https://user-images.githubusercontent.com/58173938/197498255-97fd0179-d21f-4ed6-a408-5f2bd59a1091.png)
 
+### files has been succesful deployed to all the servers pipeline was successful
+
+![21-files has been succesful deployed to all the servers pipeline was successful](https://user-images.githubusercontent.com/58173938/197498406-456b2df0-0e97-43e8-a5dc-18879b8c72f6.png)
 
 
 
