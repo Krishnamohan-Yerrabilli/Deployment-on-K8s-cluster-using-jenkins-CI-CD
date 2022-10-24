@@ -7,6 +7,8 @@ We will see, how we can send our docker file to the ansible using ssh agent <br>
   
 </div>
 
+The `SSH protocol` implements agent forwarding, a mechanism whereby an `SSH client` allows an SSH server to use the local `ssh-agent` on the server the user logs into, as if it was local there. When the user uses an SSH client on the server, the client will try to contact the agent implemented by the server, and the server then `forwards` the request to the client that originally contacted the server, which further forwards it to the local agent. This way, ssh-agent and agent forwarding implement single sign-on that can progress transitively.
+
 #### Go to Jenkins and select configure
 
 ![1-Go-to-Jenkins-and-select-configure](https://user-images.githubusercontent.com/58173938/197098191-c399d4a0-2d57-4d04-bed9-53a1c81da4ca.png)
