@@ -4,6 +4,8 @@
 
 </div>
 
+![Kubernetes final image (10)](https://user-images.githubusercontent.com/58173938/197371867-7119edd2-215d-4362-8f6a-a7483561e34f.png)
+
 In a typical CI/CD pipeline, what happens is when you push your code to a `code repository (remote)` 
 like `GitHub/GitLab/BitBucket`, an event is triggered by the git host provider. This trigger is 
 known as `WebHook`. This webhook can be used by some third-party services to provide an array of integrations.
@@ -11,7 +13,6 @@ known as `WebHook`. This webhook can be used by some third-party services to pro
 Here the performed task is to run a build that creates a docker image and pushes it to `Docker Hub`. 
 From there one can pull the images to further use them for further consumption. This image is consumed by `Kubernetes cluster`
 
-![Kubernetes final image (10)](https://user-images.githubusercontent.com/58173938/197371867-7119edd2-215d-4362-8f6a-a7483561e34f.png)
 
 ### Create a [Dockerfile](https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD/blob/main/Dockerfile%20-%20Configure%20Webhook%20-%20Trigger%20Jenkins%20Job%20-%20git/Dockerfile/Dockerfile)
 
