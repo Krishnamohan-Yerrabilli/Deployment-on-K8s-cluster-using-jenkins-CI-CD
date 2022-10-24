@@ -27,3 +27,12 @@ I posted some of the troubleshoot scenerios which i have gone through on the [re
 
 ![3- now we have logged into the 2 servers right one is ansible and left one is webapp-server(k8s cluster)](https://user-images.githubusercontent.com/58173938/197496413-248dee66-e90c-4703-ac65-844f083a1847.png)
 
+### Set the root password in the webapp(k8s cluster) server
+
+![4- set the root password in the webapp(k8s cluster) server](https://user-images.githubusercontent.com/58173938/197496499-8eef533a-718b-41a3-948c-16be6f431a01.png)
+
+### Open sshconfig file we do this to allow network permissions
+
+![5- open sshconfig file we do this to allow network permissions](https://user-images.githubusercontent.com/58173938/197496657-4604368b-b03d-4ca2-9b7d-002447aa496b.png)
+
+
