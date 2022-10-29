@@ -5,7 +5,6 @@
 ![Kubernetes final image (12)](https://user-images.githubusercontent.com/58173938/197373162-1f510766-4437-41ba-b6f8-deead93c7693.png)
 
 </div>
-<br>
 
 ## Prerequisites/tools needed to work on this project. 
 
@@ -67,4 +66,6 @@ will write `Ansible playbooks` with it, we will also write `Dockerfile`.
 - [Complete Declarative CI/CD Pipelines in Jenkins Project - Push Images to DockerHub](https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD/tree/main/Complete%20Declarative%20CI-CD%20Pipelines%20in%20Jenkins%20Project%20-%20Push%20Images%20to%20DockerHub)
 - [Complete Deployment on Kubernetes cluster using jenkins CI/CD](https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD/tree/main/Complete%20Deployment%20on%20Kubernetes%20cluster%20using%20jenkins%20CI-CD)
 
-Happy learning!
+## ❤ Show your support
+
+Give a ⭐️ if this project helped you, Happy learning!
