@@ -31,7 +31,13 @@ minions, In that, we have a lot of components such as type of service, cluster, 
 
 ### Master Node aka (Control plane)
 
-![image](https://user-images.githubusercontent.com/58173938/192191739-22c1de5f-8ed1-46cf-b52f-d7c52357c2eb.png)
+<br>
+<div align="center">
+  <a href="https://github.com/Krishnamohan-Yerrabilli/Kubernetes-hands-on">
+    <img src="https://startkubernetes.com/static/7b7a66152f804ca26d48493975f99124/29be2/k8s-master.png" alt="kuber" width="800" height="500">
+  </a>
+</div>
+<br>
 
 The Control plane acts like a mother to all worker nodes, It is responsible for doing many 
 operations, such as scheduling worker nodes, taking control of the whole cluster, majorly 
