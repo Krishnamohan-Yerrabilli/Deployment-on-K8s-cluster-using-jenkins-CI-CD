@@ -16,7 +16,11 @@ load balancing, secret, scheduling, scaling, fault-tolerance, deployment.
 
 ## Kubernetes architecture
 
-![image](https://user-images.githubusercontent.com/58173938/192191699-8676e9ea-0bcc-4601-9ec1-7d92fabd1d59.png)
+<div align="center">
+  <a href="https://github.com/Krishnamohan-Yerrabilli/Kubernetes-hands-on">
+    <img src="https://storage.googleapis.com/algodailyrandomassets/curriculum/software-engineering/kubernetes/Architecture.png" alt="kuber" width="800" height="500">
+  </a>
+</div>
 
 ### Brief 
 
