@@ -92,7 +92,11 @@ it is done by following Kubernetes scheduling principles.
 Its job is to run the containers in the pods on the node. a single node has multiple pods.
 worker nodes are part of the Kubernetes cluster.
 
-![image](https://user-images.githubusercontent.com/58173938/192191762-67fba876-d0b9-4828-8430-33430582e8e3.png)
+<div align="center">
+  <a href="https://github.com/Krishnamohan-Yerrabilli/Kubernetes-hands-on">
+    <img src="https://startkubernetes.com/static/771d7faf2ce188f54440c2ed984fa080/5a190/k8s-worker.png" alt="kuber" width="800" height="500">
+  </a>
+</div>
 
 ### Components of the worker node
 
