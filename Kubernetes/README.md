@@ -124,7 +124,11 @@ node, to the appropriate pods, but how is it possible through some service(servi
 is an object in Kubernetes) a service is worked by depending on some rules which are provided 
 by Kube-proxy, based on these rules load balancing would be done. 
 
-![image](https://user-images.githubusercontent.com/58173938/192191859-8a41946e-1cc6-41bd-9ece-1e4216ad05ae.png)
+<div align="center">
+  <a href="https://github.com/Krishnamohan-Yerrabilli/Kubernetes-hands-on">
+    <img src="https://user-images.githubusercontent.com/58173938/192191859-8a41946e-1cc6-41bd-9ece-1e4216ad05ae.png" alt="kuber" width="800" height="500">
+  </a>
+</div>
 
 *A service load balances incoming requests between the backend pods. Photo by the Luc Juggery.*
 
