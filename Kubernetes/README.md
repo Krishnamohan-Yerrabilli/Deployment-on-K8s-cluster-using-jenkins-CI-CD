@@ -148,7 +148,11 @@ this you can check out my blog on Docker.
 
 ### Complete Architecture
 
-![image](https://user-images.githubusercontent.com/58173938/192191868-632503a4-5bdd-4aa2-9504-c5e9b066cacf.png)
+<div align="center">
+  <a href="https://github.com/Krishnamohan-Yerrabilli/Kubernetes-hands-on">
+    <img src="https://user-images.githubusercontent.com/58173938/197555335-c53a9357-1af8-4856-bfa7-f5d05ab66e35.png" alt="kuber" width="800" height="500">
+  </a>
+</div>
 
 ### Installation
 
