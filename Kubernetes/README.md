@@ -191,17 +191,16 @@ also means they will share the same volumes, Cgroup limits, and even IPC names.
 
 ### Pod Networking 
 
-*how pods communicate with each other?*
+### How pods communicate with each other? 
 
 - Inter-Pod communication: All the Pod IP addresses are fully routable on the Pod Network inside the Kubernetes cluster.
+  Containers use a shared Local Host interface. All the containers can communicate with each other’s ports on localhost
+  <br>
 
-![image](https://user-images.githubusercontent.com/58173938/192191897-4a7a456f-dad7-492a-9daf-faa71ad316cf.png)
-
-
-How do containers communicate in the same pod?
-Intra-Pod Communication: Containers use a shared Local Host interface. All the containers can communicate with each other’s ports on localhost. 
-
-![image](https://user-images.githubusercontent.com/58173938/192191912-e11ec38e-49b9-4388-9be0-592c586d6768.png)
-
+<div align="center">
+  <a href="https://github.com/Krishnamohan-Yerrabilli/Kubernetes-hands-on">
+    <img src="https://kubebyexample.com/sites/default/files/2021-06/pod-to-service.svg_.png" alt="kuber" width="800" height="500">
+  </a>
+</div>
 
 <p>
