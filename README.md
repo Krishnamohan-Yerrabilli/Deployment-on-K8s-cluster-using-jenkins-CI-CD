@@ -26,7 +26,7 @@ will write `Ansible playbooks` with it, we will also write `Dockerfile`.
 
  - When the developer writes a Docker file, he pushes it to the `GitHub repository`  <br>
    so whenever there is a new commit to the GitHub repo When the new code arrives it  <br>
-   Notifies Jenkins via a webhook, and Jenkins starts the build
+   Notifies Jenkins via a webhook, and Jenkins starts the pipeline.
 
  - Jenkins pulls all the code from the GitHub repository Once it's completed, it will <br>
   ssh to the ansible server so when a developer `pushes` a docker file it accesses the  <br>
@@ -42,12 +42,12 @@ will write `Ansible playbooks` with it, we will also write `Dockerfile`.
   building the image, it will build a container and that container should be available to <br>
   us using an `node IP` and a `port` which we specified in the `Service.yaml`
 
- - We're going to start by writing service.yaml and hand it over to the Kubernetes cluster <br>
+ - We're going to start by writing `Service.yaml` and hand it over to the Kubernetes cluster <br>
   So this is the whole scenario in simple terms was going to achieve a `Kubernetes deployment`
 
  - The Jenkins CI /CD pipeline uses various tools We use `Linux` commands, Jenkins, and Docker <br>
    and you need to have a `Dockerhub account`, so once `ansible Server` builds a Docker image <br>
-   based on the Docker file, we push it to Docker Hub.
+   based on the Docker file, we push it to the Docker Hub.
 
  - So we need to log in to Docker Hub here so we can easily push the latest image so what  <br>
    we're trying to accomplish here is we have the latest image and we also maintain a <br>
