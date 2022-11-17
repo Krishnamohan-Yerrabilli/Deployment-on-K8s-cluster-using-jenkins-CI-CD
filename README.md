@@ -45,8 +45,8 @@ will write `Ansible playbooks` with it, we will also write `Dockerfile`.
  - We're going to start by writing `Service.yaml` and hand it over to the Kubernetes cluster <br>
   So this is the whole scenario in simple terms was going to achieve a `Kubernetes deployment`
 
- - The Jenkins CI /CD pipeline uses various tools We use `Linux` commands, Jenkins, and Docker <br>
-   and you need to have a `Dockerhub account`, so once `ansible Server` builds a Docker image <br>
+ - The Jenkins CI/CD pipeline uses various tools We use `Linux` commands, Jenkins, and Docker <br>
+   and you need to have a `Dockerhub account`, so once `Ansible Server` builds a Docker image <br>
    based on the Docker file, we push it to the Docker Hub.
 
  - So we need to log in to Docker Hub here so we can easily push the latest image so what  <br>
