@@ -10,7 +10,7 @@ In a typical CI/CD pipeline, what happens is when you push your code to a `code 
 like `GitHub/GitLab/BitBucket`, an event is triggered by the git host provider. This trigger is 
 known as `WebHook`. This webhook can be used by some third-party services to provide an array of integrations.
 
-Here the performed task is to run a build that creates a docker image and pushes it to `Docker Hub`. 
+Here the performed task is to run a build that creates a docker image and pushes it to `Docker Hub Registry`. 
 From there one can pull the images to further use them for further consumption. This image is consumed by `Kubernetes cluster`
 
 
